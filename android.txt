@@ -1,0 +1,3 @@
+title=RTS
+author=Mykola Fryzyuk
+orientation=portrait
